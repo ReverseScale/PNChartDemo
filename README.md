@@ -10,7 +10,7 @@ Swift 版 PNChart 图表 Demo，感谢作者 kevinzhow
 
 | 名称 |1.列表页 |2.饼状图 |3.条形图 |4.折线图 |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 截图 | ![](http://og1yl0w9z.bkt.clouddn.com/17-9-30/25369105.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-9-30/66132126.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-9-30/73681801.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-9-30/23007665.jpg) |
+| 截图 | ![](http://og1yl0w9z.bkt.clouddn.com/17-9-30/35579329.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-9-30/66132126.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-9-30/73681801.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-9-30/23007665.jpg) |
 | 描述 | 通过 storyboard 搭建基本框架 | 纯代码实现饼状图 | 纯代码实现条形图 | 纯代码实现折线图 |
 
 
